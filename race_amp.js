@@ -52,7 +52,7 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/ampImages'
+			image : 'https://vicomello.github.io/AMP/imgs'
 		}
 	});
 });
