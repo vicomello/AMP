@@ -1,4 +1,4 @@
-define(['pipAPI', 'hhttps://vicomello.github.io/AMP/qamp.js'], function(APIConstructor, ampExtension){
+define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstructor, ampExtension){
 
 	var API = new APIConstructor();
 	
