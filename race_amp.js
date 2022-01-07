@@ -48,11 +48,11 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'apple.jpg'}, {image : 'apple.jpg'}, {image : 'apple.jpg'}]
+			mediaArray : [{image : 'ampchair.jpg'}, {image : 'ampumbrella.jpg'}, {image : 'amplamp.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://vicomello.github.io/AMP/imgs/'
+			image : 'https://baranan.github.io/minno-tasks/images/ampImages'
 		}
 	});
 });
