@@ -48,7 +48,7 @@ define(['pipAPI', 'hhttps://vicomello.github.io/AMP/qamp.js'], function(APIConst
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'ampchair.jpg'}, {image : 'ampchair.jpg'}, {image : 'ampchair.jpg'}]
+			mediaArray : [{image : 'ampchair.jpg'}, {image : 'amplamp.jpg'}, {image : 'ampumbrella.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
