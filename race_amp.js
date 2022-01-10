@@ -10,18 +10,19 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 				nameForLogging : 'Black people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'b01.jpg'}, 
-					{image : 'b02.jpg'}, 
-					{image : 'b03.jpg'}, 
-					{image : 'b04.jpg'}, 
-					{image : 'b05.jpg'}, 
-					{image : 'b06.jpg'}, 
-					{image : 'b07.jpg'}, 
-					{image : 'b08.jpg'}, 
-					{image : 'b09.jpg'}, 
-					{image : 'b10.jpg'}, 
-					{image : 'b11.jpg'}, 
-					{image : 'b12.jpg'}]
+				    {image : 'fbimage2.jpg'}, 
+					{image : 'fblogo.jpg'}, 
+					{image : 'instalogo.jpg'}, 
+					{image : 'instalogo2.jpg'}, 
+					{image : 'snap.jpg'}, 
+					{image : 'tiktok.jpg'}, 
+					{image : 'tiktoklogo.jpg'}, 
+					{image : 'twitter.jpg'}, 
+					{image : 'twitterpic.jpg'}, 
+					{image : 'sc2.jpg'}//, 
+					//{image : 'b11.jpg'}, 
+					//{image : 'b12.jpg'}
+				]
 
 			}, 
 			{
@@ -29,18 +30,19 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 				nameForLogging : 'White people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'w01.jpg'}, 
-					{image : 'w02.jpg'}, 
-					{image : 'w03.jpg'}, 
-					{image : 'w04.jpg'}, 
-					{image : 'w05.jpg'}, 
-					{image : 'w06.jpg'}, 
-					{image : 'w07.jpg'}, 
-					{image : 'w08.jpg'}, 
-					{image : 'w09.jpg'}, 
-					{image : 'w10.jpg'}, 
-					{image : 'w11.jpg'}, 
-					{image : 'w12.jpg'}]
+				    {image : 'fbimage2.jpg'}, 
+					{image : 'fblogo.jpg'}, 
+					{image : 'instalogo.jpg'}, 
+					{image : 'instalogo2.jpg'}, 
+					{image : 'snap.jpg'}, 
+					{image : 'tiktok.jpg'}, 
+					{image : 'tiktoklogo.jpg'}, 
+					{image : 'twitter.jpg'}, 
+					{image : 'twitterpic.jpg'}, 
+					{image : 'sc2.jpg'}//,
+					//{image : 'w11.jpg'}, 
+					//{image : 'w12.jpg'}
+				]
 			}
 		],
 
@@ -48,7 +50,7 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'ampchair.jpg'}, {image : 'ampumbrella.jpg'}, {image : 'amplamp.jpg'}]
+			mediaArray : [{image : 'neut01.jpg'}, {image : 'neut02.jpg'}, {image : 'neut03.jpg'}, {image : 'neut04.jpg'}, {image : 'neut05.jpg'}, {image : 'neut06.jpg'}, {image : 'neut07.jpg'}, {image : 'neut08.jpg'}, {image : 'neut09.jpg'}, {image : 'neut10.jpg'}]
 		},
 
 		base_url : {//Where are your images at?

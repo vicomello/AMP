@@ -58,7 +58,45 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 					nameForLogging : 'chinese',  //Will be used in the logging
 					//An array of all media objects for this category. The default is pic1-pic200.jpg
 					mediaArray : [
-						{image : 'pic1.jpg'}, {image : 'pic2.jpg'}
+						{image : 'S01.jpg'},
+						{image : 'S02.jpg'},
+						{image : 'S03.jpg'},
+						{image : 'S04.jpg'},
+						{image : 'S05.jpg'}, 
+						{image : 'S06.jpg'}, 
+						{image : 'S07.jpg'}, 
+						{image : 'S08.jpg'},
+						{image : 'S10.jpg'},
+						{image : 'S11.jpg'},
+						{image : 'S12.jpg'},
+						{image : 'S13.jpg'},
+						{image : 'S14.jpg'},
+						{image : 'S15.jpg'},
+						{image : 'S16.jpg'},
+						{image : 'S17.jpg'},
+						{image : 'S18.jpg'},
+						{image : 'S19.jpg'},
+						{image : 'S20.jpg'},
+						{image : 'S21.jpg'},
+						{image : 'S22.jpg'},
+						{image : 'S23.jpg'},
+						{image : 'S24.jpg'},
+						{image : 'S25.jpg'},
+						{image : 'S26.jpg'},
+						{image : 'S27.jpg'},
+						{image : 'S28.jpg'},
+						{image : 'S29.jpg'},
+						{image : 'S30.jpg'},
+						{image : 'S31.jpg'},
+						{image : 'S32.jpg'},
+						{image : 'S33.jpg'},
+						{image : 'S34.jpg'},
+						{image : 'S35.jpg'},
+						{image : 'S36.jpg'},
+						{image : 'S37.jpg'},
+						{image : 'S38.jpg'},
+						{image : 'S39.jpg'},
+						{image : 'S40.jpg'}
 					]
 					
 				}
@@ -84,12 +122,12 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			//The mask stimulus in the example block
 			exampleMaskStimulus : {
 				css : {color:'000000', 'font-size':'3em'}, 
-				media : {image:'ampmaskr.jpg'}
+				media : {image:'mask.jpg'}
 			}, 
 			//The mask stimulus 
 			maskStimulus : {
 				css : {color:'000000', 'font-size':'3em'}, 
-				media : {image:'ampmask.jpg'}
+				media : {image:'mask.jpg'}
 			}, 
 			
 			
@@ -104,7 +142,7 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			leftKey : 'e', 
 			
 			base_url : {//Where are your images at?
-				image : 'https://baranan.github.io/minno-tasks/images/ampImages'
+				image : 'https://vicomello.github.io/AMP/imgs/'
 			}, 
 
 			trialsInBlock : [40, 40, 40], //Number of trials in each block 
