@@ -858,7 +858,7 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 					actions: [
 						{type:'log'}, //Record the time it took participants to continue.
 						{type:'hideStim',handle:'All'}, //Hide the instructions
-						{type:'setInput',input:{handle:'endTrial', on:'timeout',duration:200000}} //In 500ms: end the trial. In the mean time, we get a blank screen.
+						{type:'setInput',input:{handle:'endTrial', on:'timeout',duration:100}} //In 500ms: end the trial. In the mean time, we get a blank screen.
 					]
 				},
 				{
