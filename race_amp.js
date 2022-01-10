@@ -30,16 +30,16 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 				nameForLogging : 'White people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'fbimage2.jpg'}, 
-					{image : 'fblogo.jpg'}, 
-					{image : 'instalogo.jpg'}, 
-					{image : 'instalogo2.jpg'}, 
-					{image : 'snap.jpg'}, 
-					{image : 'tiktok.jpg'}, 
-					{image : 'tiktoklogo.jpg'}, 
-					{image : 'twitter.jpg'}, 
-					{image : 'twitterpic.jpg'}, 
-					{image : 'sc2.jpg'}//,
+				    {image : 'neut01.jpg'}, 
+					{image : 'neut02.jpg'}, 
+					{image : 'neut03.jpg'}, 
+					{image : 'neut04.jpg'}, 
+					{image : 'neut05.jpg'}, 
+					{image : 'neut06.jpg'}, 
+					{image : 'neut07.jpg'}, 
+					{image : 'neut08.jpg'}, 
+					{image : 'neut09.jpg'}, 
+					{image : 'neut10.jpg'}//,
 					//{image : 'w11.jpg'}, 
 					//{image : 'w12.jpg'}
 				]
