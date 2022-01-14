@@ -145,8 +145,8 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 				image : 'https://vicomello.github.io/AMP/imgs/'
 			}, 
 
-			trialsInBlock : [40, 40, 40], //Number of trials in each block 
-			trialsInExample : 3, //Change to 0 if you don't want an example block
+			trialsInBlock : [20, 20, 20], //Number of trials in each block 
+			trialsInExample : 10, //Change to 0 if you don't want an example block
 			
 			//Duration parameters.
 			fixationDuration : -1, //It means that by default we do not use fixation.
@@ -163,9 +163,9 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			
 			//For the example block (often practice)
 			exampleBlock_fixationDuration : -1, 
-			exampleBlock_primeDuration : 100, 
-			exampleBlock_postPrimeDuration : 100, 
-			exampleBlock_targetDuration : 300, 
+			exampleBlock_primeDuration : 300, 
+			exampleBlock_postPrimeDuration : 300, 
+			exampleBlock_targetDuration : 900, 
 			
 			//Instructions text for the 2-responses version.
 			exampleBlockInst: '<div><p style="font-size:20px; text-align:left; margin-left:10px; font-family:arial"><color="000000"><br/>' +
