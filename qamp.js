@@ -188,8 +188,10 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			'Concentrate on each targetCat and rate it as more rightAttribute than the average targetCat with the <b>rightKey</b> key, ' + 
 			'or more leftAttribute than average with the <b>leftKey</b> key.<br/><br/>' + 
 			' It is important to note that the real-life images can sometimes bias peoples judgments of the characters. ' +
+			' Because we are interested in how people can avoid being biased, please try your absolute best to not let the real life image 
+			'bias your judgement of the pictographs! Give usan honest assessment of the characters, regardless of the images that precede them. ' +
 			'<p style="font-size:16px; text-align:center; font-family:arial"><color="000000"><br/><br/>' + 
-			'Ready? please place your fingers on the response keys, (e and i) and press the space bar to beginHit the <b>space bar</b>.</p>' + 
+			'Ready? please place your fingers on the response keys, (e and i) and Hit the <b>space bar</b>.</p> to begin' + 
 			'<p style="font-size:12px; text-align:center; font-family:arial">' + 
 			'<color="000000">[Round 2 of nBlocks]</p></div>',
 			middleBlockInst : '<div><p style="font-size:20px; text-align:left; margin-left:10px; font-family:arial"><color="000000"><br/>' + 
