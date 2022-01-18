@@ -174,7 +174,6 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			' real-life image.  You should do nothing with the real-life image; it is simply a ' +
 			' warning signal that the second image is about to appear. ' +
 			' The second image is a character from an ancient alphabet. Your job is to make a quick judgement on how pleasant each drawing is ' +
-			' hit the <b>space bar</b>.</p> to continue' +
 			'Press the key <B>rightKey</B> if the targetCat is more rightAttribute than average. ' + 
 			'Hit the <b>leftKey</b> key if it is more leftAttribute than average.<br/><br/>' + 
 			'The items appear and disappear quickly.  ' + 
