@@ -191,7 +191,7 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			'Because we are interested in how people can avoid being biased, please try your absolute best to not let the real life image ' + 
 			'bias your judgement of the pictographs! Give us an honest assessment of the characters, regardless of the images that precede them. ' +
 			'<p style="font-size:16px; text-align:center; font-family:arial"><color="000000"><br/><br/>' + 
-			'Ready? please place your fingers on the response keys, (e and i) and Hit the <b>space bar</b>.</p> to begin' + 
+			'Ready? Please place your fingers on the response keys, (e and i) and hit the <b>space bar</b> to begin.</p> ' + 
 			'<p style="font-size:12px; text-align:center; font-family:arial">' + 
 			'<color="000000">[Round 2 of nBlocks]</p></div>',
 			middleBlockInst : '<div><p style="font-size:20px; text-align:left; margin-left:10px; font-family:arial"><color="000000"><br/>' + 
