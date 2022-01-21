@@ -6,8 +6,8 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 	return ampExtension({
 		primeCats :  [
 			{
-				nameForFeedback : 'Black people',  //Will be used in the user feedback 
-				nameForLogging : 'Black people', //Will be used in the logging
+				nameForFeedback : 'Social Media',  //Will be used in the user feedback 
+				nameForLogging : 'Social Media', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
 				    {image : 'fbimage2.jpg'}, 
@@ -26,8 +26,8 @@ define(['pipAPI', 'https://vicomello.github.io/AMP/qamp.js'], function(APIConstr
 
 			}, 
 			{
-				nameForFeedback : 'White people',  //Will be used in the user feedback 
-				nameForLogging : 'White people', //Will be used in the logging
+				nameForFeedback : 'Furniture',  //Will be used in the user feedback 
+				nameForLogging : 'Furniture', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
 				    {image : 'neut01.jpg'}, 
