@@ -170,7 +170,7 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			//Instructions text for the 2-responses version.
 			exampleBlockInst: '<div><p style="font-size:20px; text-align:left; margin-left:10px; font-family:arial"><color="000000"><br/>' +
 			'In this task, we are interested in how people make simple judgments.' + 
-			'We will be showing you pairs of pictures flashed one after the other.  The first picture is a' +
+			' We will be showing you pairs of pictures flashed one after the other.  The first picture is a' +
 			' real-life image.  You should do nothing with the real-life image; it is simply a ' +
 			' warning signal that the second image is about to appear. ' +
 			' The second image is a character from an ancient alphabet. Your job is to make a quick judgement on how pleasant each drawing is. ' +
