@@ -173,9 +173,9 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			'We will be showing you pairs of pictures flashed one after the other.  The first picture is a' +
 			' real-life image.  You should do nothing with the real-life image; it is simply a ' +
 			' warning signal that the second image is about to appear. ' +
-			' The second image is a character from an ancient alphabet. Your job is to make a quick judgement on how pleasant each drawing is ' +
-			'Press the key <B>rightKey</B> if the targetCat is more rightAttribute than average. ' + 
-			'Hit the <b>leftKey</b> key if it is more leftAttribute than average.<br/><br/>' + 
+			' The second image is a character from an ancient alphabet. Your job is to make a quick judgement on how pleasant each drawing is. ' +
+			'Press the <B>rightKey</B> key if the targetCat is more rightAttribute than average. ' + 
+			'Press the <b>leftKey</b> key if it is more leftAttribute than average.<br/><br/>' + 
 			'The items appear and disappear quickly.  ' + 
 			'Remember to ignore the item that appears before the targetCat and evaluate only the targetCat.<br/><br/></p>'  + 
 			'<p style="font-size:16px; text-align:center; font-family:arial"><color="000000"><br/><br/>' + 
