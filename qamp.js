@@ -58,7 +58,6 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 					nameForLogging : 'pictographs',  //Will be used in the logging
 					//An array of all media objects for this category. The default is pic1-pic200.jpg
 					mediaArray : [
-						//{image : 'S01.jpg'},
 						//{image : 'S02.jpg'},
 						//{image : 'S03.jpg'},
 						//{image : 'S04.jpg'},
