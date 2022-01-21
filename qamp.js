@@ -186,7 +186,7 @@ define(['pipAPI','underscore'], function(APIConstructor, _) {
 			'Go with your gut feelings.<br/><br/>' + 
 			'Concentrate on each targetCat and rate it as more rightAttribute than the average targetCat with the <b>rightKey</b> key, ' + 
 			'or more leftAttribute than average with the <b>leftKey</b> key.<br/><br/>' + 
-			'It is important to note that the real-life images can sometimes bias peoples judgments of the characters. ' +
+			'It is important to note that the real-life images can sometimes bias people\'s judgments of the characters. ' +
 			'Because we are interested in how people can avoid being biased, please try your absolute best to not let the real life image ' + 
 			'bias your judgement of the pictographs! Give us an honest assessment of the characters, regardless of the images that precede them. ' +
 			'<p style="font-size:16px; text-align:center; font-family:arial"><color="000000"><br/><br/>' + 
